@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% include publications_list.md}
+{% include sit.publications.publications_list.md}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
