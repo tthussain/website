@@ -6,7 +6,7 @@ author_profile: true
 ---
 hello
 
-{% include publications_list.md %}
+{% include_relative publications_list.md %}
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
