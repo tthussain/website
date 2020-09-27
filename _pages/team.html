@@ -1,0 +1,28 @@
+---
+layout: archive
+title: "Team"
+permalink: /team/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+<h2>Current Team Members</h2>
+{% for post in site.team %}
+{% for tag in post.active %}
+{% if tag == "current" %}
+{% include archive-single-compact.html %}
+{% endif %}
+{% endfor %}
+{% endfor %}
+
+
+<h2>Previous Team Members</h2>
+{% for post in site.team %}
+{% for tag in post.active %}
+{% if tag == "past" %}
+{% include archive-single-compact.html %}
+{% endif %}
+{% endfor %}
+{% endfor %}

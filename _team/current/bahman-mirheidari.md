@@ -1,0 +1,7 @@
+---
+name: "Dr Bahman Mirheidari"
+project: "Mirheidari is the main Post-Doc working on the COMPASS project which aims to further develop the cognitive assessment system he piloted in his phd for stroke survivors."
+personal_website: 
+collection: team
+active: current
+---
