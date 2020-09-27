@@ -14,7 +14,8 @@ author_profile: true
 
 
 <h2>Current projects </h2>
-{% for post in site.projects.current %}
+{% for post in site.projects %}
+{% if page.active == "current" %}
 {% include archive-single.html %}
 {% endfor %}
 
