@@ -1,5 +1,5 @@
 ---
-title: "Object Oriented Programming and Software Design"
+title: "COM6516: Object Oriented Programming and Software Design"
 collection: teaching
 type: "Master's course"
 permalink: /teaching/2018--com6516

@@ -1,5 +1,5 @@
 ---
-title: "Machines and Intelligence"
+title: "COM1005: Machines and Intelligence"
 collection: teaching
 type: "Master's course"
 permalink: /teaching/2019--com6516
