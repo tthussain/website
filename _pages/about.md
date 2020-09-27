@@ -12,8 +12,7 @@ redirect_from:
 of the <a href="http://catch.org.uk/">Centre for Assistive Technology and Connected
 Healthcare (CATCH)</a> at the <a href="https://www.sheffield.ac.uk">University of
 Sheffield</a>. I am also part of the <a href="http://spandh.dcs.shef.ac.uk/">Speech and Hearing Research Group
-(SPandH)</a> and a member of the <a href="https://mhs.group.shef.ac.uk/">Sheffield Medical Humanities
-(MHS)</a>. I am a theme lead for the newly announced UKRI <a href="https://slt-cdt.ac.uk/">Centre for
+(SPandH)</a> and a theme lead for the UKRI <a href="https://slt-cdt.ac.uk/">Centre for
 Doctoral Training in speech and language technologies and their applications</a>.</p>
 
 <p>I am the <a href="https://www.sheffield.ac.uk/engineering/about/equality-diversity-inclusion">Faculty Director for Equality, Diversity and Inclusion</a>.
