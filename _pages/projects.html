@@ -7,7 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-
+<h2>All project </h2>
 {% for post in site.projects %}
+{% include archive-single.html %}
+{% endfor %}
+
+
+<h2>Current projects </h2>
+{% for post in site.projects.current %}
+{% include archive-single.html %}
+{% endfor %}
+
+
+
+<h2>Old projects</h2>
+{% for post in site.projects.past %}
 {% include archive-single.html %}
 {% endfor %}
