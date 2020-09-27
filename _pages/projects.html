@@ -7,27 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>All project </h2>
-{% for post in site.projects %}
-{% include archive-single.html %}
-{% endfor %}
-
 
 <h2>Current projects</h2>
 {% for post in site.projects %}
 {% for tag in post.active %}
 {% if tag == "current" %}
-{% include archive-single.html %}
+{% include archive-single-compact.html %}
 {% endif %}
 {% endfor %}
 {% endfor %}
-
-
 
 
 <h2>Previous projects</h2>
-{% for post in site.projects.past %}
-{% if page.active == "past" %}
+{% for post in site.projects %}
+{% for tag in post.active %}
+{% if tag == "past" %}
 {% include archive-single.html %}
 {% endif %}
+{% endfor %}
 {% endfor %}
