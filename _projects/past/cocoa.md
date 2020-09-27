@@ -7,7 +7,7 @@ active: past
 
 
 <div class="img_row">
-    <img class="col three left" src="/people/H.Christensen//assets/img/IVA.png" alt="" title="Speaking to the Digital Doctor" />
+    <img class="col three left" src="assets/img/IVA.png" alt="" title="Speaking to the Digital Doctor" />
 </div>
 <div class="col three caption">
    Research participant with memory concerns is speaking to the COCOA Digital Doctor.
