@@ -1,6 +1,6 @@
 ---
 title: "COCOA: COmputational COgnitive Assessment"
-excerpt: "OLD Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "This project developed and evaluated a system for automatic assessment of a person's cognitive impairment based on how they interact with an on-screen digital doctor virtual agent."
 collection: projects
 active: past
 ---
