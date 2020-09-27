@@ -17,7 +17,9 @@ author_profile: true
 {% for post in site.projects %}
 {% if page.active == "current" %}
 {% include archive-single.html %}
+{% endif %}
 {% endfor %}
+
 
 
 
@@ -25,4 +27,5 @@ author_profile: true
 {% for post in site.projects.past %}
 {% if page.active == "past" %}
 {% include archive-single.html %}
+{% endif %}
 {% endfor %}
