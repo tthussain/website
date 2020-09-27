@@ -95,6 +95,8 @@ Rafael Orozco-Arroyave, Juan and Camilo Vasquez-Correa, Juan and Francisco Varga
 
 - **An Exploratory Survey Questionnaire to Understand What Emotions Are Important and Difficult to Communicate for People with Dysarthria and Their Methodology of Communicating**
 Alhinti, Lubna and Christensen, Heidi and Cunningham, Stuart, *International Journal of Psychological and Behavioral Sciences*, 2020, 187--191 [bib](bib/alhinti2020exploratory.bib)
+
+
 ## Conferences
 - **The CHiME corpus: a resource and a challenge for computational hearing in multisource environments**
 Christensen, Heidi and Barker, Jon and Ma, Ning and Green, Phil D, In *Eleventh Annual Conference of the International Speech Communication Association*, 2010 [bib](bib/christensen2010chime.bib)
