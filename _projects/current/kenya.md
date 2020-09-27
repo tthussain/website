@@ -1,5 +1,5 @@
 ---
-title: "Target"
+title: "COMPASS"
 excerpt: "Technology Assisted Recovery Goal Elicitation and Transaction (TARGET)– Preparatory wor"
 collection: projects
 active: current

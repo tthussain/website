@@ -1,6 +1,6 @@
 ---
 title: "HPC"
-excerpt: "Technology Assisted Recovery Goal Elicitation and Transaction (TARGET)– Preparatory wor"
+excerpt: "Remote monitoring people with Mild Cognitive Impairment using combined technology of the Digital Doctor and ViVA; This project will investigate whether OTs can assess PwMCI in their own home using CognoSpeak in combination with the ViVA remote visit system. PwMCI would use their own smartphone or tablet (facilitated by support worker or family member) or have one provided. Funded by Health & Care Partnership"
 collection: projects
 active: current
 ---
@@ -9,12 +9,17 @@ active: current
 
 <h3 id="summary">Project Description</h3>
 
-<p>Approximately 1 in 20 adults has a chronic mental health problem which seriously and persistently impacts on their life.  Setting goals, and targeting interventions towards meeting them, is widely seen as an important and legitimate focus in mental health care. Users of goal based outcomes to plan therapy find that discussing and framing goals is a constructive and interactive process. However, there are a number of challenges with setting goals in mental health. We aim to address these challenges by using technology to assist in setting individual person goals for recovery. TARGET will develop a new technology-assisted approach to goal setting which will involve people interacting, over a few sessions, with an onscreen virtual character - an interactive virtual agent (IVA). The aim of this will be to provide a non-threatening “conversation” with the technology to help patients set personally relevant goals and frame them in a way which strengthens the goals’ legitimacy to professionals. This grant will fund the preparatory work involving literature review and development work with stakeholders - professional and patient / public.</p>
+The Department of Health has identified a need to utilise technology to help manage demand on memory clinic assessments, accurately detecting progression from MCI (mild cognitive impairment) to Alzheimer's Disease and improving efficiency of staff time. Occupational Therapists (OTs) play a key role in the management of people with MCI (PwMCI), running follow-up clinics at both Sheffield memory clinics. 
 
-<p>This is funded by the Sheffield Health &amp; Social Care NHS Foundation Research Capability Funding. £20,000. In collaboration with Prof Chris Burton (PI, Academic Unit of Primary Medical Care), Prof Scott Weich (ScHARR), Dr Chris Blackmore (ScHARR)</p>
+There is a national challenge with missed appointments costing the NHS £150 million per year. Digital remote appointments are a solution to address this challenge.  
 
-<h3 id="people">People &amp; Partners</h3>
-<p>In collaborations with <a href="https://www.sheffield.ac.uk/medicine/research/aupmc/staff/academicprofiles/burton">Dr Chris Burton&lt;h3&gt;, Brigitte Delaney, <a href="https://www.sheffield.ac.uk/scharr/sections/hsr/rrg/members/katherine_easton">Dr Kat Easton</a>, <a href="https://www.sheffield.ac.uk/scharr/sections/hsr/rrg/members/sarah-abdi">Sara Abdi</a>, <a href="https://www.sheffield.ac.uk/scharr/sections/hsr/mhru/staff/weich_s">Prof Scott Weich</a>, <a href="https://www.sheffield.ac.uk/scharr/sections/hsr/mhru/staff/blackmore_c">Chris Blackmore</a>.</a></p>
+CognoSpeak is an automated cognitive assessment tool that uses an on-screen Digital Doctor asking questions and analysing spoken responses. It can distinguish between AD, MCI and healthy controls and can be repeated over time. 
 
-<h3 id="funder">Funders</h3>
-<p>This project has received funding by the SHSC RCF 17-18 NATIONAL INSTITUTE FOR HEALTH RESEARCH.</p>
+This project will investigate whether OTs can assess PwMCI in their own home using CognoSpeak in combination with the ViVA remote visit system. PwMCI would use their own smartphone or tablet (facilitated by support worker or family member) or have one provided.  
+
+In a recent stakeholder, patient and public consultation the opportunity to utilise technology to minimise hospital attendance and bring care closer to home was viewed positively.
+
+We will run workshops involving all end-users on what is required to use technology to manage PwMCI remotely. We will recruit 10 PwMCI to use this system in a real clinical setting from the two hospital memory clinics in Sheffield.
+
+This is a new collaboration between STH, SHSCT, TUoS, SHU, Sheffield City Council and Age UK.
+
