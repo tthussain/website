@@ -21,7 +21,8 @@ author_profile: true
 
 
 
-<h2>Old projects</h2>
+<h2>Previous projects</h2>
 {% for post in site.projects.past %}
+{% if page.active == "past" %}
 {% include archive-single.html %}
 {% endfor %}
