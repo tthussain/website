@@ -182,12 +182,11 @@ collections:
     permalink: /:collection/:path/
   projects:
     output: true
-    permalink: /:collection/:path/  
-  talks:
-    output: true
     permalink: /:collection/:path/
-
-
+  team:
+    output: true
+    permalink: /:collection/:path/  
+  
 # Defaults
 defaults:
   # _posts
@@ -226,6 +225,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _projects
   - scope:
       path: ""
@@ -235,12 +243,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _team
   - scope:
       path: ""
-      type: talks
+      type: team
     values:
-      layout: talk
+      layout: team
       author_profile: true
       share: true
 
