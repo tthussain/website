@@ -8,22 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a Senior Lecturer in <a href="https://www.sheffield.ac.uk/dcs">Computer Science</a> and a member
+<p>I am a Senior Lecturer in <a href="https://www.sheffield.ac.uk/dcs">Computer Science</a> at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a> and a member
 of the <a href="http://catch.org.uk/">Centre for Assistive Technology and Connected
 Healthcare (CATCH)</a> at the <a href="https://www.sheffield.ac.uk">University of
-Sheffield</a>. I am also part of the <a href="http://spandh.dcs.shef.ac.uk/">Speech and Hearing Research Group
+Sheffield</a>. I am part of the <a href="http://spandh.dcs.shef.ac.uk/">Speech and Hearing Research Group
 (SPandH)</a> and a theme lead for the UKRI <a href="https://slt-cdt.ac.uk/">Centre for
 Doctoral Training in speech and language technologies and their applications</a>.</p>
 
-<p>I am the <a href="https://www.sheffield.ac.uk/engineering/about/equality-diversity-inclusion">Faculty Director for Equality, Diversity and Inclusion</a>.
+<p>I have a long-standing interest in improving equality and diversity and I am the current <a href="https://www.sheffield.ac.uk/engineering/about/equality-diversity-inclusion">Faculty Director for Equality, Diversity and Inclusion</a>.
 
-<p>I am interested in the application of audio and speech technology to
-the healthcare domain. My interests include:</p>
+<p>My research interests are in the application of audio and speech technology to
+the healthcare domain and include two main areas</p>
 
 <ul>
-<li>human-computer interfaces such as conversational interfaces to domestic robots, dialogue systems and automatic speech recognition of disordered speech,</li>
-<li>communication technologies that can help people communicate with other people,</li>
-<li>computer-aided audio, speech and language analysis, e.g. classifying dementia or detecting abnormal pronunciation patters, and
-speech and language generating technologies such as speech synthesis
-with a personalised voice.</li>
+<li>the automatic recognition of disordered, atypical speech,</li>
+<li>the detection and tracking of verbal and non-verbal traits in speech and language</li>
 </ul>
