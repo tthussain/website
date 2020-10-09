@@ -5,10 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-
 {% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+
+You can also find my articles on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
+
 ## Journals
 - **Developing an intelligent virtual agent to stratify people with cognitive complaints: A comparison of human--patient and intelligent virtual agent--patient interaction**
 Walker, Traci and Christensen, Heidi and Mirheidari, Bahman and Swainston, Thomas and Rutten, Casey and Mayer, Imke and Blackburn, Daniel and Reuber, Markus, *Dementia*, 2020, 1173--1188 [bib](bib/walker2020developing.bib)
