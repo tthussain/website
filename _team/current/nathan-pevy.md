@@ -1,6 +1,6 @@
 ---
 name:  "Nathan Pevy"
-bio: "I co-supervise Nathan. He is the PhD student working on the [seisure classification](projects/current/seizureclassification) project where he works on explaring automatic methods for diagnosing seizure type based on a person's speech and language."
+bio: "Nathan works on the [Seizure classification](projects/seizureclassification) project. I co-supervise him with [Markus Reuber](https://www.sheffield.ac.uk/medicine/people/neuroscience/markus-reuber) and [Traci Walker](https://www.sheffield.ac.uk/health-sciences/people/human-communication-sciences/traci-walker)"
 personal_website: https://www.sheffield.ac.uk/dcs/people/research-staff/bahman-mirheidari
 collection: team
 active: current
