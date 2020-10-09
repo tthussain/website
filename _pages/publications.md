@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 
-You can also find my articles on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
+Please, find below a chronological list of my journal and conference papers. You can also find my publications on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
 
 ## Journals
 - **Developing an intelligent virtual agent to stratify people with cognitive complaints: A comparison of human--patient and intelligent virtual agent--patient interaction**
