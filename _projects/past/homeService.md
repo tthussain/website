@@ -11,14 +11,12 @@ The homeService project is addressing the challenge of providing speech-driven c
 Data collected from people’s interaction with their systems have been collected and is available for researchers [here](http://mini.dcs.shef.ac.uk/resources/homeservice-corpus).
 
 The homeService project is part of the EPSRC Natural Speech Technology (NST) Programme Grant.
-</div>
 
-<p>&lt;div id=”people&gt;</p>
-<h3>People &amp; Partners</h3>
 
-<p>The network partners are:</p>
 
-<p>The University of Sheffield
-University of Edinburgh
-University of Cambridge
-&lt;/div&gt;</p>
+
+The network partners are:
+
+* The University of Sheffield
+* University of Edinburgh
+* University of Cambridge
