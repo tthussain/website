@@ -20,7 +20,7 @@ The TAPAS work programme targets three key research problems:
 
 There are a total of [15 ESRS](https://www.tapas-etn-eu.org/people) on TAPAS, two of whom are working in Sheffield:
 
-* Yilin Pan, who will be working on novel methods for detecting early signs of cognitive decline, and
-* Zhengjun Yue, who will be working on continous automatic speech recognition for dysarthric speech 
+* [Yilin Pan](../team/current/yilin-pan), who will be working on novel methods for detecting early signs of cognitive decline, and
+* [Zhengjun Yue](../team/current/zhengjun-yue), who will be working on continous automatic speech recognition for dysarthric speech 
 
 
