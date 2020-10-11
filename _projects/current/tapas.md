@@ -18,7 +18,7 @@ The TAPAS work programme targets three key research problems:
 * Assisted Living: We will re-design current speech technology so that it works well for people with speech impairments and also helps in making informed clinical choices. People with speech impairments often have other co-occurring conditions making them reliant on carers. Speech-driven tools for assisted-living are a way to allow such people to live more independently.
 * TAPAS adopts an inter-disciplinary and multi-sectorial approach. The consortium includes clinical practitioners, academic researchers and industrial partners, with expertise spanning speech engineering, linguistics and clinical science. All members have expertise in some element of pathological speech. This rich network will train a new generation of 15 researchers, equipping them with the skills and resources necessary for lasting success.
 
-There are a total of [15 ESRS](https://www.tapas-etn-eu.org/people) on TAPAS, two of whom are working in Sheffield:
+There are a total of [15 ESRs](https://www.tapas-etn-eu.org/people) on TAPAS, two of whom are working in Sheffield:
 
 * [Yilin Pan](../team/current/yilin-pan), who will be working on novel methods for detecting early signs of cognitive decline, and
 * [Zhengjun Yue](../team/current/zhengjun-yue), who will be working on continous automatic speech recognition for dysarthric speech 
